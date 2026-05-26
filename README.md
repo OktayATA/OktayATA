@@ -5,9 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oktayata" alt="oktayata" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript**
 
-- 📫 How to reach me **oktayata54@gmail.com**
+- 📫 How to reach me **oktayata369@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
